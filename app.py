@@ -19,6 +19,7 @@ def main():
     while True:
         cli_clear()
         
+        print("TOSS Hangul day Event")
         print(f"SPLIT_LEVEL: {SPLIT_LEVEL}")
         print("")
         print("1. Config SPLITE_LEVEL")
