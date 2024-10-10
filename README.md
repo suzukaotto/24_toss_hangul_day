@@ -8,7 +8,7 @@
 DISPLAY_RIGHT_TOP = 캡쳐될 좌상단 좌표(x, y)<br>
 DISPLAY_LEFT_BOTTOM = 캡쳐될 우하단 좌표(x, y)<br>
 설정 후, 캡쳐가 아래와 같이 되어야 합니다.<br>
-![올바른캡쳐]()<br><br>
+![올바른캡쳐](https://raw.githubusercontent.com/suzukaotto/24_toss_hangul_event/refs/heads/master/region_capture.png)<br><br>
 
 메뉴 선택은 메뉴 명에 해당하는 숫자를 입력하면 됩니다.<br><br>
 
